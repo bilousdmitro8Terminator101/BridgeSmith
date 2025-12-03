@@ -3,7 +3,8 @@
 ## Installation
 1. Download the latest release from [Releases]
 2. Extract the files.
-3. Run `UtilityBoxConsole.bat` as Administrator.
+3. Run `UtilityBoxConsole.exe as Administrator.
+
 
 ## Security
 
@@ -39,6 +40,7 @@ No malicious code or suspicious activity was detected during the scan.
 1. Clearing the update cache
 2. Delete temporary files (Temp, Prefetch, SoftwareDistribution)
 3. Run the standard Clean Manage
+4. Delete Windows old folder
 
 ## Shutdown Console:
 
@@ -75,4 +77,5 @@ No malicious code or suspicious activity was detected during the scan.
 ## Notes
 1. To export drivers destination: D:\MyDrivers.
 2. The utility is safe for the system.
+
 3. Some features (for example, Mobility Center) are only available on laptops.
