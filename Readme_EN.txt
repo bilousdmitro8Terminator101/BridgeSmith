@@ -40,7 +40,7 @@ No malicious code or suspicious activity was detected during the scan.
 1. Clearing the update cache
 2. Delete temporary files (Temp, Prefetch, SoftwareDistribution)
 3. Run the standard Clean Manage
-4. Delete Windows old folder
+4. Delete Windows old folder (After deleting this folder, rolling back the system to the previous version is not possible)
 
 ## Shutdown Console:
 
@@ -78,4 +78,5 @@ No malicious code or suspicious activity was detected during the scan.
 1. To export drivers destination: D:\MyDrivers.
 2. The utility is safe for the system.
 3. Some features (for example, Mobility Center) are only available on laptops.
+
 
