@@ -77,5 +77,5 @@ No malicious code or suspicious activity was detected during the scan.
 ## Notes
 1. To export drivers destination: D:\MyDrivers.
 2. The utility is safe for the system.
-
 3. Some features (for example, Mobility Center) are only available on laptops.
+
