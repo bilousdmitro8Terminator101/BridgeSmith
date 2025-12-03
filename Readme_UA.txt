@@ -1,4 +1,6 @@
-Utility Box Console
+Utility Box Console v1.0.0.0
+
+Copyright by Dmytro Bilous (bilousdmitro8Terminator101)
 
 ## Безпека
 
@@ -75,3 +77,4 @@ Boot Menu:
 утиліта безпечна для системи.
 
 Деякі функції (наприклад, Mobility Center) доступні лише на ноутбуках.
+
