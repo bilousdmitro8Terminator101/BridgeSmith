@@ -68,6 +68,10 @@ No malicious code or suspicious activity was detected during the scan.
 Display full information about the selected disk or disk partition Work with physical and virtual disks, cleaning, formatting, restoring the operability of damaged USB \ SD devises, and local or external HDD \ SSD disks 
 (!!! CAUTION !!! USE IT VERY CAREFULL ALL YOUR DATA WILL BE DELETED)
 
+## Robocopy
+Robocopy  (Robust File Copy) — is a built-in Windows utility for reliable copying and synchronization of files and folders.
+It is much more powerful than standard copying through Explorer and is suitable for working with large amounts of data.
+
 ## Features:
 
 1. Colorful design for each block (main menu, utilities, DISM, cleanup, shutdown, Boot Menu).
@@ -84,6 +88,7 @@ Display full information about the selected disk or disk partition Work with phy
 1. To export drivers destination: D:\MyDrivers.
 2. The utility is safe for the system.
 3. Some features (for example, Mobility Center) are only available on laptops.
+
 
 
 
