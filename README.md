@@ -1,4 +1,6 @@
-# BridgeSmith
+### BridgeSmith
+
+Copyright by Dmytro Bilous (bilousdmitro8Terminator101)
 
 ## Security
 
