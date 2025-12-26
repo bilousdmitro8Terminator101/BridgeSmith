@@ -14,13 +14,13 @@ if %errorlevel% neq 0 (
 
 mode con cols=200 lines=60
 
-title BridgeSmith v.1.0.1.3
+title BridgeSmith v.1.0.1.2
 color 0B
 
 :menu
 cls 
 echo ====================================================
-echo       BridgeSmith v.1.0.1.3 Main menu 
+echo       BridgeSmith v.1.0.1.2 Main menu 
 echo ====================================================
 echo. 
 echo Press key [1] = Utilities console
@@ -826,5 +826,6 @@ echo =========================================
 robocopy "%src%" "%dst%" /LOG:"%logfile%"
 pause
 goto Robocopy
+
 
 
